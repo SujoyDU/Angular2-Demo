@@ -1,0 +1,6 @@
+[
+
+ {"id": "Schoolquestion","parent": "#", "text":"School","children":true,"data" : {"obj" : {"collection_name":"SchoolInformation"}}},
+ {"id": "Collegequestion","parent": "#", "text":"College","children":true,"data" : {"obj" : {"collection_name":"CollegeInformation"}}},
+ {"id": "Schoolcollegequestion", "parent": "#","children":true, "text":"School & College","data" : {"obj" : {"collection_name":"SchoolCollegeInformation"}}}
+]
